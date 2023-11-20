@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/haneulhye2-webmail/static/css/main.c7608fba.css",
+    "main.js": "/haneulhye2-webmail/static/js/main.cdfd3f2b.js",
+    "static/css/484.ca13bd9d.chunk.css": "/haneulhye2-webmail/static/css/484.ca13bd9d.chunk.css",
+    "static/js/484.0e649bbe.chunk.js": "/haneulhye2-webmail/static/js/484.0e649bbe.chunk.js",
+    "static/js/787.6c3cd001.chunk.js": "/haneulhye2-webmail/static/js/787.6c3cd001.chunk.js",
+    "static/js/336.e96fccd4.chunk.js": "/haneulhye2-webmail/static/js/336.e96fccd4.chunk.js",
+    "static/media/hobspot-loader.webp": "/haneulhye2-webmail/static/media/hobspot-loader.b653093eceea45b8803d.webp",
+    "index.html": "/haneulhye2-webmail/index.html",
+    "main.c7608fba.css.map": "/haneulhye2-webmail/static/css/main.c7608fba.css.map",
+    "main.cdfd3f2b.js.map": "/haneulhye2-webmail/static/js/main.cdfd3f2b.js.map",
+    "484.ca13bd9d.chunk.css.map": "/haneulhye2-webmail/static/css/484.ca13bd9d.chunk.css.map",
+    "484.0e649bbe.chunk.js.map": "/haneulhye2-webmail/static/js/484.0e649bbe.chunk.js.map",
+    "787.6c3cd001.chunk.js.map": "/haneulhye2-webmail/static/js/787.6c3cd001.chunk.js.map",
+    "336.e96fccd4.chunk.js.map": "/haneulhye2-webmail/static/js/336.e96fccd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7608fba.css",
+    "static/js/main.cdfd3f2b.js"
+  ]
+}
